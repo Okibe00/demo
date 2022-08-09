@@ -1,0 +1,10 @@
+#ignore files .a and .test files
+*.[a]
+#ignore pyton files
+*.py
+#ignore app/*.blob
+app/*.blob
+#ignore .test
+*.test
+#ignore .pt
+*.pt
