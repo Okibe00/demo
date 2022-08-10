@@ -4,3 +4,9 @@ h1 {
     font-size: 30px;
     text-align: center;
 }
+footer {
+    padding: 20px 10px;
+    background: #333;
+    color: white;
+    text-align: center;
+}
