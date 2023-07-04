@@ -1,2 +1,2 @@
-##Managed to get gcm working
-
+## Managed to get gcm working
+## So the branch worked
